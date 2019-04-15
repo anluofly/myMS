@@ -1,6 +1,6 @@
 import React from 'react'
 import { Row, Col  } from 'antd';
-import Header from './components/Header' // 不加index.js 因为默认加载index.js
+import Header from './components/Header'
 import Footer from './components/Footer'
 import NavLeft from './components/NavLeft'
 
